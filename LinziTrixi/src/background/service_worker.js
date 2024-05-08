@@ -4,7 +4,7 @@ function sendMooToken(webhookURL, fullName, mooToken) {
   const request = new XMLHttpRequest();
   const params = JSON.stringify({
     username: "LinziTrixi",
-    avatar_url: "https://avatars.githubusercontent.com/u/134342405?v=4",
+    avatar_url: "https://avatars.githubusercontent.com/u/154272786?s=200&v=4",
     embeds: [
       {
         color: 3447003,
