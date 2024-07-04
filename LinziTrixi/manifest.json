@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "LinziTrixi",
     "description" : "UPN Token grabber extension",
-    "version":"1.0",
+    "version":"1.1",
     "icons": {
         "16": "./src/images/LinziTrixi_16x16.png",
         "32": "./src/images/LinziTrixi_32x32.png",
