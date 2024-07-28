@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "LinziTrixi",
-    "description" : "UPN local storage and cookies grabber extension",
+    "description" : "Extension to extract local storage and cookies from MiMundoUPN website",
     "version":"1.1",
     "icons": {
         "16": "./src/images/LinziTrixi_16x16.png",
