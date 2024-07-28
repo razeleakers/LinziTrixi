@@ -1,13 +1,13 @@
 <h1 align="center"><img src="/img/LinziTrixi.png" alt="LinziTrixi" width="448px" height="240px"></h1>
 <h2 align="center">LinziTrixi v1.1</h2>
 
-## Description
+## Descripcion
 
 <p>Extension encargada de obtener el <b>local storage</b> y <b>cookies</b> de la web <a href="https://mimundo.upn.edu.pe/">MiMundoUPN</a>(Universidad Privada del Norte)</p>
 
 <p>Utilizando <a href="https://support.discord.com/hc/es/articles/228383668-Introducci%C3%B3n-a-los-webhook">webhooks de discord</a> recibiras la informacion del alumno </p>
 
-## Usage
+## Info
 
 <p>Configuracion : Primero ingresa el link de tu webhook de discord en el archivo "service_worker.js" ya que ese sera el lugar donde se enviara la informacion</p>
 
