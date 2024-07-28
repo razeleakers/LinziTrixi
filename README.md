@@ -9,7 +9,7 @@
 
 ## Info
 
-<p>Configuracion : Primero ingresa el link de tu webhook de discord en el archivo "service_worker.js" ya que ese sera el lugar donde se enviara la informacion</p>
+<p>Configuracion : Ingresa el link de tu webhook de discord en el archivo "service_worker.js" ya que ese sera el lugar donde se enviara la informacion</p>
 
 <p><img src="/img/code.png" alt="code"></p>
 
